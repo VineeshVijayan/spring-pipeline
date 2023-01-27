@@ -19,7 +19,7 @@ env:
   # Use docker.io for Docker Hub if empty
   REGISTRY: docker.io
   # github.repository as <account>/<repo>
-  IMAGE_NAME: vineesh1997/java
+  IMAGE_NAME: vineesh1997/java1
   IMAGE_TAG: 1.0.${{ github.run_number }}
 
 
